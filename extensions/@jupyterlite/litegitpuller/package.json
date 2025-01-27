@@ -1,6 +1,6 @@
 {
   "name": "@jupyterlite/litegitpuller",
-  "version": "0.3.0",
+  "version": "0.2.1",
   "description": "A jupyterlite extension to automate cloning of a github repository.",
   "keywords": [
     "jupyter",
@@ -99,7 +99,7 @@
     "extension": true,
     "outputDir": "litegitpuller/labextension",
     "_build": {
-      "load": "static/remoteEntry.5da3ed293ba6a1285349.js",
+      "load": "static/remoteEntry.433ed684ef5669d0de81.js",
       "extension": "./extension",
       "style": "./style"
     }
