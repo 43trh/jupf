@@ -76,13 +76,6 @@
       },
       {
         "extension": "./extension",
-        "liteExtension": true,
-        "load": "static/remoteEntry.22fa4957aeeaa092f993.js",
-        "name": "@jupyterlite/terminal",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
         "liteExtension": false,
         "load": "static/remoteEntry.d4a268dd70153c5d1266.js",
         "name": "bqplot"
